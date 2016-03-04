@@ -1,0 +1,9 @@
+item.itemGlassHelmet.name=Glass Helmet
+item.itemGlassChest.name=Glass Chest
+item.itemGlassLeggings.name=Glass Leggings
+item.itemGlassBoots.name=Glass Boots
+
+item.itemGlassCutter.name=Glass Cutter
+
+item.itemGlassFragment.name=Glass Fragment
+itemGroup.GlassZhazhaCraft=Glass Zhazha Craft!

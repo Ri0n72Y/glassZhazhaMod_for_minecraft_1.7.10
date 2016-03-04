@@ -1,0 +1,9 @@
+item.itemGlassHelmet.name=玻璃头盔
+item.itemGlassChest.name=玻璃胸甲
+item.itemGlassLeggings.name=玻璃护腿
+item.itemGlassBoots.name=玻璃靴子
+
+item.itemGlassCutter.name=玻璃刀
+
+item.itemGlassFragment.name=玻璃渣渣
+itemGroup.GlassZhazhaCraft=玻璃渣渣工艺！

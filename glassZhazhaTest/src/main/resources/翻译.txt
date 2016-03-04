@@ -1,0 +1,22 @@
+assets
+gzc = Glass[玻璃]Zhazha[渣渣]Craft-GZC
+lang = language 语言
+---zh_CN = 简体中文
+---en_US = 美式英语
+textures = 材质
+---armor = 铠甲
+------stained[染色的]_glass_layer[展开图]_1.png
+---blocks = 方块 block的复数形式
+---items = 道具 item的复数形式
+------item[道具]Glass[玻璃]Boots[靴子]
+------itemGlassChest[胸部，Chestplate胸甲的简写]
+------itemGlassCutter[玻璃刀 -cut -cutter]
+------itemGlassFragment[碎片]
+------itemGlassHelmet[头盔]
+------itemGlassLeggings[护腿]
+------itemStained[染色的]GlassHelmet_green[绿色]
+
+一共需要画64个item材质，颜色为
+"black"黑色, "red"红色, "green"绿色, "brown"棕色, "blue"蓝色, "purple"紫色, "cyan"青色, "silver"银色/浅灰色, "gray"灰色, "pink"粉色, "lime"酸橙色/黄绿色, "yellow"黄色, "lightBlue"浅蓝色, "magenta"品红, "orange"橙色, "white"白色
+
+颜色可以从材质包的玻璃png提取
